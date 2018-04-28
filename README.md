@@ -1,0 +1,2 @@
+# rckstr
+WordPress Starter Theme
